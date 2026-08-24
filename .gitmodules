@@ -1,16 +1,16 @@
 [submodule "src/third_party/PENF"]
   path = src/third_party/PENF
-  url = https://github.com/comflow/PENF
+  url = git@github.com:ComFLOW-CFD/PENF.git
   branch = master
 [submodule "src/third_party/BeFoR64"]
   path = src/third_party/BeFoR64
-  url = https://github.com/comflow/BeFoR64
+  url = git@github.com:ComFLOW-CFD/BeFoR64.git
   branch = master
 [submodule "src/third_party/StringiFor"]
   path = src/third_party/StringiFor
-  url = https://github.com/comflow/StringiFor
+  url = git@github.com:ComFLOW-CFD/StringiFor.git
   branch = master
 [submodule "src/third_party/FoXy"]
   path = src/third_party/FoXy
-  url = https://github.com/Fortran-FOSS-Programmers/FoXy
+  url = git@github.com:ComFLOW-CFD/FoXy.git
   branch = master
